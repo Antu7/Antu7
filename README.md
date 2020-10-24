@@ -1,16 +1,24 @@
-### Hi there 👋
+<!-- Zero width character is used to put extra blank lines before and after code -->
 
-<!--
-**Antu7/Antu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
-Here are some ideas to get you started:
+<h2 align="center">👋 Hello! I'm Antu.</h2>
+<p align="center">
+</p>
+<h3>
+    
+```python
+from music import headphones
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@music
+class life:
+    languages   : tuple = ("Python")
+    framework   : tuple = ("Django")
+    databases   : tuple = ("Mysql")
+    ongoing     : tuple = ("System Security")
+    favorite    : tuple = ("Music", "Exploit-Server")
+    activity    : tuple = ("Stackoverflow", "Hackthebox", "Hackerone")
+
+​
+```
+</h3>
