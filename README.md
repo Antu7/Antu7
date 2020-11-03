@@ -13,11 +13,11 @@ from music import headphones
 @music
 class life:
     languages   : tuple = ("Python")
-    framework   : tuple = ("Django")
+    frameworks  : tuple = ("Django")
     databases   : tuple = ("Mysql")
-    ongoing     : tuple = ("System Security")
-    favorite    : tuple = ("Music", "Exploit-Server")
-    activity    : tuple = ("Stackoverflow", "Hackthebox", "Hackerone")
+    ongoing     : tuple = ("Bug Bounty Hunting, CTF, System Security")
+    favorites   : tuple = ("Music", "Exploit-Server")
+    activitys   : tuple = ("Stackoverflow", "Hackthebox", "Hackerone")
 
 ​
 ```
