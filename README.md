@@ -17,7 +17,7 @@ class life:
     databases   : tuple = ("Mysql")
     ongoing     : tuple = ("Bug Bounty Hunting, CTF, System Security")
     favorites   : tuple = ("Music", "Exploit-Server")
-    activitys   : tuple = ("Stackoverflow", "Root Me", "Hackerone")
+    activitys   : tuple = ("Stackoverflow", "Hackthebox", "Hackerone")
 
 ​
 ```
