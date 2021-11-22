@@ -3,6 +3,7 @@
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
 <h2 align="center">👋 Hello! I'm Antu.</h2>
+![Profile views counter](https://komarev.com/ghpvc/?username=antu7&color=brightgreen&style=plastic)
 <p align="center">
 </p>
 <h3>
