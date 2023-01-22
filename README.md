@@ -2,12 +2,18 @@
 
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
-<h2 align="center">👋 Hello! I'm Antu.</h2>
+<h2 align="center">👋 Hello! I'm Antu.</h2> 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=antu7&color=brightgreen&style=plastic)
 
+
+<h2 align="center">
+    <a href="https://stardev.io/developers/Antu7"><img alt="Check out Antu7's profile on stardev.io"                      
+    src="https://stardev.io/developers/Antu7/badge/languages/country.svg" /></a>
+</h2>
+
 <h3>
-    
+
 ```python
 from music import headphones
 
