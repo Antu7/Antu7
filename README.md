@@ -6,12 +6,6 @@
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=antu7&color=brightgreen&style=plastic)
 
-
-<h2 align="center">
-    <a href="https://stardev.io/developers/Antu7"><img alt="Check out Antu7's profile on stardev.io"                      
-    src="https://stardev.io/developers/Antu7/badge/languages/country.svg" /></a>
-</h2>
-
 <h3>
 
 ```python
@@ -29,3 +23,8 @@ class life:
 ​
 ```
 </h3>
+
+<h4 align="center">
+    <a href="https://stardev.io/developers/Antu7"><img alt="Check out Antu7's profile on stardev.io"                      
+    src="https://stardev.io/developers/Antu7/badge/languages/country.svg" /></a>
+</h4>
